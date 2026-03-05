@@ -48,8 +48,8 @@ Values may vary across optimistic and pessimistic scenarios.
 
 ## How to Use the Model
 
-1. Open the Excel financial model.
-2. Modify the input variables such as:
+1. Open the Excel Files simultaneously.
+2. Modify the input variables using the Scenario Selector such as:
 - Subscription price
 - Customer acquisition cost (CAC)
 - Churn rate
