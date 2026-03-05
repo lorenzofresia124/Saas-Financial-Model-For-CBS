@@ -1,53 +1,77 @@
-# SaaS Financial & Growth Financial Model
+# SaaS Unit Economics & Growth Financial Model
 
-## Overview
-
-This project presents a comprehensive financial and strategic analysis of a subscription-based SaaS business model.  
-
-The objective is to evaluate economic sustainability, scalability, and operational risk using structured quantitative modeling.
-
-The model integrates break-even analysis, unit economics (LTV/CAC), churn sensitivity testing, and infrastructure scalability assessment.
+Financial modelling project analysing the sustainability and growth dynamics of a subscription-based SaaS business.
 
 ---
 
-## Key Metrics
+## Overview
+
+This project presents a financial model built in Excel to analyse the economics and scalability of a subscription-based SaaS business.
+
+The model evaluates profitability, customer acquisition efficiency and long-term sustainability through structured financial modelling.
+
+It integrates break-even analysis, SaaS unit economics (LTV/CAC), churn sensitivity analysis and scenario-based growth projections to understand how different assumptions affect business performance.
+
+---
+
+## Key Metrics (Base Scenario)
+
+The following metrics are calculated under the base scenario assumptions.
+Values may vary across optimistic and pessimistic scenarios.
 
 - Subscription Price: 79 DKK
 - Contribution Margin: 59 DKK
 - Break-even Subscribers: 847
-- Monthly Profit at 1,000 Subscribers: 9,000 DKK
+- Monthly Profit at 1,000 Subscribers: 3,000 DKK
 - Customer Lifetime Value (LTV): 1,180 DKK
-- Customer Acquisition Cost (CAC): 250 DKK
-- LTV/CAC Ratio: 4.7x
-- Payback Period: ~4.2 months
-- Break-even Churn Rate: ~15%
+- Customer Acquisition Cost (CAC): 500 DKK
+- LTV/CAC Ratio: 2.36x
+- CAC Payback Period: ~8.5 months
+- Break-even Churn Rate: ~10%
 
 ---
 
 ## Model Structure
 
-### Sheet 1 – Financial Model
-- Cost structure
-- Break-even analysis
+### Sheet 1 — Financial Model
+
+- Cost structure analysis
+- Break-even calculation
 - Profitability dashboard
 
-### Sheet 2 – Unit Economics & Growth
-- LTV and CAC modeling
+### Sheet 2 — Unit Economics & Growth
+
+- LTV and CAC modelling
 - Churn sensitivity analysis
-- Scalability simulation
-- Strategic KPI visualization
+- Growth and scalability simulation
+- Strategic KPI visualisation
+
+---
+
+## Scenario Analysis
+
+The model evaluates three different business scenarios by adjusting key variables such as customer acquisition cost, churn rate and growth assumptions.
+
+**Base Scenario**
+Balanced assumptions for pricing, CAC and churn.
+
+**Optimistic Scenario**
+Higher customer growth and lower churn, representing strong product adoption.
+
+**Pessimistic Scenario**
+Lower growth and higher churn, testing the resilience of the business model.
+
+This scenario analysis helps evaluate how sensitive the business model is to changes in acquisition efficiency and customer retention.
 
 ---
 
 ## Strategic Insights
 
-The analysis demonstrates:
-
-The analysis highlights several key insights about the financial dynamics of subscription-based SaaS businesses:
+The analysis highlights several key insights about subscription-based SaaS businesses:
 
 - Sustainable cost structure once the break-even threshold is reached
-- Strong customer acquisition efficiency relative to lifetime value
-- Resilience to moderate churn fluctuations
+- Strong balance between customer acquisition cost and lifetime value
+- Profitability strongly influenced by churn variations
 - Scalable infrastructure supported by step-based cost expansion
 
 ---
@@ -55,10 +79,15 @@ The analysis highlights several key insights about the financial dynamics of sub
 ## Tools Used
 
 - Microsoft Excel
-- Financial modeling techniques
-- Sensitivity analysis
+- Financial modelling
+- Scenario analysis
+- Sensitivity testing
 - Business analytics logic
 
 ---
 
-This project reflects a data-driven approach to understanding the financial sustainability and scalability of digital subscription businesses.
+## Purpose of the Project
+
+This project was developed as a personal analytical exercise to explore how financial modelling can be used to understand the sustainability and growth dynamics of digital subscription businesses.
+
+It reflects a data-driven approach to analysing unit economics and strategic decision-making in SaaS companies.
