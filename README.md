@@ -1,4 +1,4 @@
-# SaaS Financial & Growth Model
+# SaaS Financial & Growth Financial Model
 
 ## Overview
 
@@ -43,10 +43,12 @@ The model integrates break-even analysis, unit economics (LTV/CAC), churn sensit
 
 The analysis demonstrates:
 
-- Sustainable cost structure beyond break-even threshold
-- Strong customer acquisition efficiency
+The analysis highlights several key insights about the financial dynamics of subscription-based SaaS businesses:
+
+- Sustainable cost structure once the break-even threshold is reached
+- Strong customer acquisition efficiency relative to lifetime value
 - Resilience to moderate churn fluctuations
-- Digital scalability supported by step-based infrastructure logic
+- Scalable infrastructure supported by step-based cost expansion
 
 ---
 
@@ -59,4 +61,4 @@ The analysis demonstrates:
 
 ---
 
-This project reflects an analytical and data-driven approach to digital business management.
+This project reflects a data-driven approach to understanding the financial sustainability and scalability of digital subscription businesses.
