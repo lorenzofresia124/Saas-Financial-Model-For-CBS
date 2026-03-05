@@ -46,6 +46,20 @@ Values may vary across optimistic and pessimistic scenarios.
 - Growth and scalability simulation
 - Strategic KPI visualisation
 
+## How to Use the Model
+
+1. Open the Excel financial model.
+2. Modify the input variables such as:
+- Subscription price
+- Customer acquisition cost (CAC)
+- Churn rate
+3. The model automatically updates:
+- Monthly profit
+- Break-even subscribers
+- LTV/CAC ratio
+- Payback period
+4. Use the churn sensitivity chart to understand how retention affects profitability.
+
 ---
 
 ## Scenario Analysis
