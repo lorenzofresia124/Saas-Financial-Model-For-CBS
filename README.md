@@ -149,4 +149,4 @@ It reflects a data-driven approach to analysing unit economics and strategic dec
 ## Author
 Lorenzo Fresia 
 
-Aspiring Business & Digital Management student interested in Saas economics, market strategy and data-driven business analysis.
+Aspiring Business & Digital Management student interested in SaaS economics, market strategy and data-driven business analysis.
