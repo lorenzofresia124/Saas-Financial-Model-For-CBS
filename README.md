@@ -14,6 +14,31 @@ It integrates break-even analysis, SaaS unit economics (LTV/CAC), churn sensitiv
 
 ---
 
+## Infrastructure Scalability
+
+The model includes infrastructure scalability costs to simulate real SaaS growth dynamics.
+
+The system assumes that each server can support up to **1000 subscribers**.
+When the number of subscribers exceeds this capacity, an additional server is required.
+
+Each server has a monthly cost of **DKK 6,000**.
+
+This means:
+
+- 0 – 1000 subscribers → 1 server → DKK 6,000
+- 1001 – 2000 subscribers → 2 servers → DKK 12,000
+- 2001 – 3000 subscribers → 3 servers → DKK 18,000
+
+The server cost is included in the total monthly operating costs and therefore affects:
+
+- Monthly profit
+- Break-even point
+- Scenario analysis results
+
+This approach allows the model to reflect infrastructure scaling as the SaaS platform grows.
+
+---
+
 ## Key Metrics (Base Scenario)
 
 The following metrics are calculated under the base scenario assumptions.
@@ -21,8 +46,8 @@ Values may vary across optimistic and pessimistic scenarios.
 
 - Subscription Price: 79 DKK
 - Contribution Margin: 59 DKK
-- Break-even Subscribers: 847
-- Monthly Profit at 1,000 Subscribers: 3,000 DKK
+- Break-even Subscribers: 966
+- Monthly Profit at 1,000 Subscribers: 2,000 DKK
 - Customer Lifetime Value (LTV): 1,180 DKK
 - Customer Acquisition Cost (CAC): 500 DKK
 - LTV/CAC Ratio: 2.36x
