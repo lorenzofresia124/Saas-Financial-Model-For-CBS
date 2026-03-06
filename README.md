@@ -48,7 +48,11 @@ Values may vary across optimistic and pessimistic scenarios.
 
 ## How to Use the Model
 
-1. Open the Excel Files simultaneously.
+The excel files in this project are interconnected.
+For the best experience, it is recommended to download all the files and keep them in the same folder
+
+Open the file simultaneously to ensure that all the link and reference between the model function correctly.
+
 2. Modify the input variables using the Scenario Selector such as:
 - Subscription price
 - Customer acquisition cost (CAC)
