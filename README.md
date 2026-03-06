@@ -113,3 +113,10 @@ SaaS Unit Economics & Growth
 This project was developed as a personal analytical exercise to explore how financial modelling can be used to understand the sustainability and growth dynamics of digital subscription businesses.
 
 It reflects a data-driven approach to analysing unit economics and strategic decision-making in SaaS companies.
+
+
+---
+
+## Author
+Lorenzo Fresia 
+Aspiring Business & Digital Management student interested in Saas economics, market strategy and data-driven business analysis.
