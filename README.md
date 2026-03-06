@@ -10,7 +10,15 @@ This project presents a financial model built in Excel to analyse the economics 
 
 The model evaluates profitability, customer acquisition efficiency and long-term sustainability through structured financial modelling.
 
-It integrates break-even analysis, SaaS unit economics (LTV/CAC), churn sensitivity analysis and scenario-based growth projections to understand how different assumptions affect business performance.
+It integrates break-even analysis, SaaS unit economics (LTV/CAC), churn sensitivity analysis and scenario-based growth projections to understand how different assumptions affect business performance
+
+---
+
+# How to use the Model
+The excel files in this project are interconnected.
+For the best experience, it is recommended to download all the files and keep them in the same folder.
+
+Open the file simultaneously to ensure that all the link and reference between the model function correctly.
 
 ---
 
